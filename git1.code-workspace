@@ -1,0 +1,19 @@
+{
+	"folders": [
+		{
+			"path": "../git1"
+		},
+		{
+			"path": "../blockchain"
+		},
+		{
+			"path": "../Lead_Tracker"
+		},
+		{
+			"path": "."
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "asynchronous"
+	}
+}
